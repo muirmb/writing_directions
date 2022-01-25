@@ -1,6 +1,6 @@
 # HOW TO BUILD A SNOWMAN
 
-Building a snowman is a fun, family-friendly activity that you can do this winter.  If this is your first time building a snowman, follow the instructions below.
+Building a snowman is a fun, family-friendly activity that you can do this winter.  If you have not built a snowman before, follow the instructions below.
 
 ## What you will need
 - snow
