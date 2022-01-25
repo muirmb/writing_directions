@@ -10,6 +10,9 @@ Building a snowman is a fun, family-friendly activity that you can do this winte
 - 1 winter hat
 - 1 scarf
 
+## WARNING
+Be sure to stay warm! Bundle up and take a break indoors if you have to. Building a snowman is fun, but it's not worth getting frostbite
+
 ## How to assemble the snowman
 1. Make a large ball of snow for the base - preferably 2-3 feet wide
 2. Make a slightly smaller ball of snow and put this ball on top of the base - preferably 1.5-2.5 feet wide
